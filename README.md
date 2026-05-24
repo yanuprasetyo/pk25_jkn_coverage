@@ -157,9 +157,7 @@ c("haven", "tidyverse", "survey", "srvyr",
 Jika menggunakan kode ini, mohon sitasi:
 
 ```
-Prasetyo, Yanu Endar., et al (2025). Analisis Kepesertaan JKN Berbasis Data PK 2025.
-GitHub: https://github.com/[username]/jkn_pk25
-Data: Pendataan Keluarga 2025, BKKBN-BRIN.
+Prasetyo, Y.E., et al (2026). Determinan dan Ketimpangan Kepesertaan Jaminan Kesehatan Nasional (JKN): Analisis Berbasis Pendataan Keluarga 2025. Policy Brief. Jakarta: Pusat Riset Kependudukan, BRIN. 
 ```
 
 ---
