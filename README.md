@@ -157,7 +157,7 @@ c("haven", "tidyverse", "survey", "srvyr",
 Jika menggunakan kode ini, mohon sitasi:
 
 ```
-[Nama Penulis]. (2025). Analisis Kepesertaan JKN Berbasis Data PK 2025.
+Prasetyo, Yanu Endar., et al (2025). Analisis Kepesertaan JKN Berbasis Data PK 2025.
 GitHub: https://github.com/[username]/jkn_pk25
 Data: Pendataan Keluarga 2025, BKKBN-BRIN.
 ```
