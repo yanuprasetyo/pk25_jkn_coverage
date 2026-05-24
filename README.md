@@ -1,6 +1,6 @@
 # Analisis Kepesertaan JKN — Kepala Keluarga Indonesia (PK 2025)
 
-> **"Determinan dan Ketimpangan Kepesertaan JKN: Bukti dari Pendataan Keluarga 2025"**
+> **"Determinan dan Ketimpangan Kepesertaan JKN: Evidence dari Data Pendataan Keluarga 2025"**
 
 ---
 
